@@ -1,4 +1,4 @@
-<h1>Contenido base para trabajar lo explicado en el video sobre el uso de Flexbox</h1>
+<h1>Contenido base para trabajar lo explicado en el video sobre el uso de Flexbox (Parte I) </h1>
 <h2>Código: HTML5 y CSS3</h2>
 <br>
 <h2>Al descargar este proyecto, debes efectuar los siguientes pasos:</h2>
